@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-samuel Martinez
-Sergio Urrego U
+Ibrahim Sserunkuuma 
 
 Second part of Airbnb: Joann Vuong
 ## License
